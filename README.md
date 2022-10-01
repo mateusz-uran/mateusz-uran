@@ -18,8 +18,8 @@ I'm trying to be full stack developer so MySQL or HTTP requests are known to me.
 
 #### More about me
 
-- 🔭 I’m currently working on the next version of PTD Manager
-- 🌱 I’m currently learning everything which means Java, Spring, React, MySQL etc. Everything you need to become FullStack Dev
+- 🔭 I’m currently working on the next version of PTD Manager.
+- 🌱 I’m currently learning everything which means Java, Spring, React, MySQL etc. Everything you need to become FullStack Dev.
 - 📫 How to reach me: mateusz.uranowski@onet.pl or [My Blog](https://mateusz-uran.pl/)
 
 [Spring-Boot]: https://img.shields.io/badge/Spring--Boot-black?logo=springboot&logoColor=6DB33F
