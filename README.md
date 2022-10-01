@@ -3,7 +3,7 @@ IT engineer with specialization of web development. I'm familiar with technologi
 but I've used also Thymeleaf at the beggining of my journey with programming. 
 I'm trying to be full stack developer so MySQL or HTTP requests are known to me.
 
-Technologies I've been using: <br />
+#### ⚡ Technologies <br />
 
 ![Spring-Boot][Spring-Boot]
 ![React][React]
@@ -16,7 +16,9 @@ Technologies I've been using: <br />
 ![Flyway][Flyway]
 ![iText][iText]
 
-- 🔭 I’m currently working on over the next version of PTD Manager
+#### More about me
+
+- 🔭 I’m currently working on the next version of PTD Manager
 - 🌱 I’m currently learning everything which means Java, Spring, React, MySQL etc. Everything you need to become FullStack Dev
 - 📫 How to reach me: mateusz.uranowski@onet.pl or [My Blog](https://mateusz-uran.pl/)
 
