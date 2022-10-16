@@ -1,7 +1,7 @@
 ### Hi there 👋
 IT engineer with specialization of web development. I'm familiar with technologies such as spring-boot for backend. At the frontend, I feel comfortable in React
 but I've used also Thymeleaf at the beggining of my journey with programming. 
-I'm trying to be full stack developer so MySQL or HTTP requests are known to me.
+I'm trying to be full stack developer so MySQL or HTTP protocols are known to me.
 
 #### ⚡ Technologies <br />
 
