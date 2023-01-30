@@ -15,7 +15,6 @@ but I'm also learning Agnular. I want to become fullstack developer so technolog
 ![AWS][AWS]
 ![Thymeleaf][Thymeleaf]
 ![Flyway][Flyway]
-![iText][iText]
 
 #### More about me
 
@@ -34,4 +33,3 @@ but I'm also learning Agnular. I want to become fullstack developer so technolog
 [AWS]: https://img.shields.io/badge/AWS-fe9900?logo=amazonaws
 [Thymeleaf]: https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf
 [Flyway]: https://img.shields.io/badge/Flyway-CC0200?logo=flyway
-[iText]: https://img.shields.io/badge/iText-084975
