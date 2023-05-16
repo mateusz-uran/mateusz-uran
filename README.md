@@ -1,6 +1,6 @@
 ### Hi there 👋
-IT engineer with specialization of web development. I'm familiar with technologies such as spring-boot for backend. At the frontend, I feel comfortable in React
-but I'm also learning Agnular. I want to become fullstack developer so technologies like SQL, Docker are known to me. 
+IT engineer with specialization of web development. I'm familiar with technologies such as spring boot for backend. At the frontend, I feel comfortable in React
+but I'm also learning Agnular. I want to become fullstack developer so technologies like SQL, Docker or Kubernetes are known to me. 
 
 #### ⚡ Technologies <br />
 
@@ -18,8 +18,8 @@ but I'm also learning Agnular. I want to become fullstack developer so technolog
 
 #### More about me
 
-- 🔭 I’m currently working on the next version of PTD Manager but created in microservice architecture.
-- 🌱 I’m still learning Java and Spring but also Angular.
+- 🔭 I’m currently working on new project based on 3D visualization.
+- 🌱 I’m still learning Java, programming best practises and React framework.
 - 📫 How to reach me: mateusz.uranowski@onet.pl
 
 [Spring-Boot]: https://img.shields.io/badge/Spring--Boot-black?logo=springboot&logoColor=6DB33F
