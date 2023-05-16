@@ -18,7 +18,7 @@ but I'm also learning Agnular. I want to become fullstack developer so technolog
 
 #### More about me
 
-- 🔭 I’m currently working on new project based on 3D visualization.
+- 🔭 I'm currently working on a garden themed project.
 - 🌱 I’m still learning Java, programming best practises and React framework.
 - 📫 How to reach me: mateusz.uranowski@onet.pl
 
