@@ -18,8 +18,8 @@ but I'm also learning Agnular. I want to become fullstack developer so technolog
 
 #### More about me
 
-- 🔭 I'm currently improving my PTD Lite project.
-- 🌱 I’m still learning Java, programming best practises and React framework.
+- 🔭 I'm currently improving my backend and frontend skills. Working on side projects.
+- 🌱 I'm mastering Java and Spring and frontend frameworks based on Typescript.
 - 📫 How to reach me: mateusz.uranowski@onet.pl
 
 [Spring-Boot]: https://img.shields.io/badge/Spring--Boot-black?logo=springboot&logoColor=6DB33F
