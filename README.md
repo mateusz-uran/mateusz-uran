@@ -1,6 +1,7 @@
 ### Hi there 👋
-IT engineer with specialization of web development. I'm familiar with technologies such as spring boot for backend. At the frontend, I feel comfortable in React
-but I'm also learning Agnular. I want to become fullstack developer so technologies like SQL, Docker or Kubernetes are known to me. 
+I am an IT engineer specializing in web development. I have experience with technologies such as Spring Boot for backend. In frontend development, 
+I am comfortable with React, and I am also learning Angular. My goal is to become a fullstack developer, 
+so I am familiar with technologies like SQL, Docker, and Kubernetes.
 
 #### ⚡ Technologies <br />
 
